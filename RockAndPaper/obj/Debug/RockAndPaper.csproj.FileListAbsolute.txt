@@ -1,0 +1,14 @@
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\bin\Debug\RockAndPaper.exe.config
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\bin\Debug\RockAndPaper.exe
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\bin\Debug\RockAndPaper.pdb
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.csprojAssemblyReference.cache
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.csproj.CoreCompileInputs.cache
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.exe
+C:\Users\DmC\source\repos\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.pdb
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\bin\Debug\RockAndPaper.exe.config
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\bin\Debug\RockAndPaper.exe
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\bin\Debug\RockAndPaper.pdb
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.csprojAssemblyReference.cache
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.csproj.CoreCompileInputs.cache
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.exe
+C:\Users\haychenko\Desktop\lab\RockAndPaper\RockAndPaper\RockAndPaper\obj\Debug\RockAndPaper.pdb
